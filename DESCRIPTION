@@ -1,0 +1,12 @@
+Package: ERGmisc
+Type: Package
+Title: Utility Functions Ed Always Uses
+Version: 0.1
+Date: 2016-02-19
+Author: Edmund Glass
+Maintainer: Who to complain to <Edmund.Glass@gmail.com>
+Description: Instead of reinventing the wheel over and over again... I just load
+    this package which contains my favorite pet shortcut functions.
+License: Free (as in beer)
+LazyData: TRUE
+RoxygenNote: 5.0.1.9000
